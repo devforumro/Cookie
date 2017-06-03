@@ -1,4 +1,4 @@
-Site-ul devforum.ro utilizează cookie-uri. Informațiile prezentate în continuare au scopul de a vă aduce la cunoștință mai multe detalii despre plasarea, utilizarea și administrarea cookie-urilor utilizate de site-ul devforum.ro. De asemenea, sunt prezente și cateva linkuri utile legate de acest subiect. În cazul în care aveți nevoie de mai multe informații ce nu se regasesc mai jos, ne puteți contacta la: cookie@devforum.ro
+Site-ul **devforum.ro** utilizează cookie-uri. Informațiile prezentate în continuare au scopul de a vă aduce la cunoștință mai multe detalii despre plasarea, utilizarea și administrarea cookie-urilor utilizate de site-ul **devforum.ro**. De asemenea, sunt prezente și cateva linkuri utile legate de acest subiect. În cazul în care aveți nevoie de mai multe informații ce nu se regasesc mai jos, ne puteți contacta la: **cookie@devforum.ro**
 
 Vă rugăm să citiți cu atenție informațiile care urmează:
 
