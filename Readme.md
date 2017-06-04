@@ -1,6 +1,6 @@
-Site-ul devforum.ro utilizează cookie-uri. Informațiile prezentate în continuare au scopul de a vă aduce la cunoștință mai multe detalii despre plasarea, utilizarea și administrarea cookie-urilor utilizate de site-ul devforum.ro. De asemenea, sunt prezente și cateva linkuri utile legate de acest subiect. În cazul în care aveți nevoie de mai multe informații ce nu se regasesc mai jos, ne puteți contacta la: cookie@devforum.ro
+Site-ul **devforum.ro** utilizează cookie-uri. Informațiile prezentate în continuare au scopul de a vă aduce la cunoștință mai multe detalii despre plasarea, utilizarea și administrarea cookie-urilor utilizate de site-ul **devforum.ro**. De asemenea, sunt prezente și cateva linkuri utile legate de acest subiect. În cazul în care aveți nevoie de mai multe informații ce nu se regasesc mai jos, ne puteți contacta la: **cookie@devforum.ro**
 
-Vă rugăm să citiți cu atenție informațiile care urmeazș:
+Vă rugăm să citiți cu atenție informațiile care urmează:
 
 Acest website folosește cookie-uri, atat proprii cat și de la terți, pentru a furniza vizitatorilor o experiență mult mai bună de navigare și servicii adaptate nevoilor și interesului fiecăruia.
 
@@ -168,5 +168,5 @@ Pentru mai multe detalii legate de probleme de confidentialitate, puteți accesa
 
 * [http://www.dreptonline.ro/legislatie/oug_13_2012_modificare_prelucrare_date_caracter_personal_protectia_vietii_private_comunicatii_electronice.php](http://www.dreptonline.ro/legislatie/oug_13_2012_modificare_prelucrare_date_caracter_personal_protectia_vietii_private_comunicatii_electronice.php)
 * [www.youronlinechoices.eu/ro](http://www.youronlinechoices.eu/ro)
-* [http://www.iabeurope.eu/cookies-faq/internet-cookiesincreasing-and-enhancing-your-internet-surfing-experience/what-are-cookies-how-do-they-workcookies-faq.aspx](http://www.iabeurope.eu/cookies-faq/internet-cookies---increasing-and-enhancing-your-internet-surfing-experience/what-are-cookies-how-do-they-work---cookies-faq.aspx)
+* [https://www.iabeurope.eu/policy/internet-cookies-increasing-and-enhancing-your-internet-experience/](https://www.iabeurope.eu/policy/internet-cookies-increasing-and-enhancing-your-internet-experience/)
 * [http://www.guardian.co.uk/info/cookies](http://www.guardian.co.uk/info/cookies)
